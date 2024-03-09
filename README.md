@@ -1,5 +1,7 @@
 - 👋 Hi, I’m AradArbel10.
-- 👀 I’m interested in Math, Functional Programming, Programming Language Theory & Type Theory, Compilers, Theoretical Computer Science, Low Level & Computer Architecture.
+- 👀 I’m interested in
+  - Pure Math: Abstract Algebra, Category Theory, Algebraic Topology, Algebraic Geometry.
+  - Computer Science: Functional Programming, Programming Language Theory & Type Theory, Compilers, Theoretical Computer Science, Low Level & Computer Architecture.
 - 📫 Reach me via Email aradarbel10@gmail.com, or via Discord AradArbel10#3813.
 
 <!---
